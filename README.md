@@ -18,8 +18,11 @@ python -m spacy download en_core_web_sm
 ## Workflow
 
 Preprocessing: preprocessor.py
+
 Training: train.py
+
 Evaluation: test.py
+
 App: app.py
 
 ## Dataset
@@ -38,7 +41,7 @@ class: Label (0, 1, or 2)
 
 4. test.py: Model evaluation
 
-5. app.py: Gradio web interface
+5. app.py: app interface
 
 vocab.pkl: Saved vocabulary
 
