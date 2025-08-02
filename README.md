@@ -8,7 +8,7 @@ This project classifies tweets into three categories:
 ## Setup
 
 1. Install requirements:
-```bash
+
 pip install -r requirements.txt
 
 ## Download spaCy model:
