@@ -30,15 +30,15 @@ tweet: Text content
 class: Label (0, 1, or 2)
 
 ## Project Structure
-preprocessor.py: Data cleaning and preprocessing
+1. preprocessor.py: Data cleaning and preprocessing
 
-model.py: LSTM model architecture
+2. model.py: LSTM model architecture
 
-train.py: Training pipeline
+3. train.py: Training pipeline
 
-test.py: Model evaluation
+4. test.py: Model evaluation
 
-app.py: Gradio web interface
+5. app.py: Gradio web interface
 
 vocab.pkl: Saved vocabulary
 
