@@ -1,0 +1,10 @@
+torch
+spacy
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+matplotlib
+seaborn
+gradio
+python-dotenv
